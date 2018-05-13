@@ -1,5 +1,9 @@
 # PostgreSQL loader for webpack
 
+[![Build Status](https://travis-ci.org/dkamyshov/pg-minify-webpack-loader.svg?branch=master)](https://travis-ci.org/dkamyshov/pg-minify-webpack-loader)
+[![npm](https://img.shields.io/npm/dt/pg-minify-webpack-loader.svg)](https://www.npmjs.com/package/pg-minify-webpack-loader)
+[![GitHub issues](https://img.shields.io/github/issues-raw/dkamyshov/pg-minify-webpack-loader.svg)](https://github.com/dkamyshov/pg-minify-webpack-loader)
+
 You definitely need this loader if:
 
 * You use webpack to build your nodejs projects
