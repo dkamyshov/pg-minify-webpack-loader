@@ -1,6 +1,6 @@
 var loader = require('../index');
 
-var snapshot = "Object.defineProperty(exports, '__esModule', {value: true});\n";
+var snapshot = "Object.defineProperty(exports, \"__esModule\", {value: true});\n";
 snapshot += "exports[\"default\"] = \"SELECT*FROM table1;\";";
 
 describe('loader', () => {

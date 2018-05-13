@@ -1,6 +1,6 @@
 {
   "name": "pg-minify-webpack-loader",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "pgSQL webpack loader",
   "main": "index.js",
   "scripts": {
@@ -23,7 +23,8 @@
   "author": "Danil Kamyshov",
   "license": "MIT",
   "dependencies": {
-    "pg-minify": "^0.5.4"
+    "pg-minify": "^0.5.4",
+    "loader-utils": "^1.1.0"
   },
   "devDependencies": {
     "jest": "^22.4.3"
