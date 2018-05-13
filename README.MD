@@ -13,7 +13,7 @@ You definitely need this loader if:
 
 ## Installing
 
-`npm i --save pg-minify-webpack-loader`
+`npm i --save-dev pg-minify-webpack-loader`
 
 ## Webpack configuration
 
