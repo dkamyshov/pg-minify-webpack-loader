@@ -44,10 +44,10 @@ module.exports = {
 
 The following options are available:
 
-Name | Type | Accepts | Default value | Comment
-- | - | - | - | -
-compress | `boolean` | `true`, `false` | `true` | If `true`, the SQL file is minified, i.e. all the comments and unnecessary whitespaces are removed. If `false`, the SQL file is loaded as-is.
-module | `string` | `'es6'`, `'commonjs'` | `'es6'` | Specifies how the module will be compiled: as ES6 or commonjs module.
+| Name | Type | Accepts | Default value | Comment |
+| --- | --- | --- | --- | --- |
+| compress | `boolean` | `true`, `false` | `true` | If `true`, the SQL file is minified, i.e. all the comments and unnecessary whitespaces are removed. If `false`, the SQL file is loaded as-is. |
+| module | `string` | `'es6'`, `'commonjs'` | `'es6'` | Specifies how the module will be compiled: as ES6 or commonjs module. |
 
 The easiest way to pass options to the loader is to use the query string:
 
